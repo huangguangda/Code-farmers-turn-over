@@ -1,6 +1,9 @@
 # Code-farmers-turn-over
 码农翻身
 
+作者
+“码农翻身” 公共号 : 由工作15年的前IBM架构师创建，分享编程和职场的经验教训。
+
 <div style="line-height:1.75;font-size:14px;"><span style="font-size:16px;font-family:'Microsoft YaHei', STXihei;color:rgb(255,255,255);background-color:rgb(0,193,218);">大话编程</span></div>
 <div style="line-height:1.75;font-size:14px;"><a href="http://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&amp;mid=416915373&amp;idx=1&amp;sn=f80a13b099237534a3ef777d511d831a&amp;scene=21#wechat_redirect" rel="nofollow"><span style="color:rgb(96,127,166);">我是一个线程</span></a><span style="color:rgb(96,127,166);"></span></div>
 <div style="line-height:1.75;font-size:14px;"><a href="http://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&amp;mid=416976590&amp;idx=1&amp;sn=22823ada76d8cfd26a43e8d3a7b7a60e&amp;scene=21#wechat_redirect" rel="nofollow"><span style="color:rgb(96,127,166);">我是一个Java
